@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DOWSSDll", "DOWST\DOWST.vcxproj", "{76B4C032-5831-46E6-B004-25982F7A7A11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Injector", "DOWSTInjector\DOWSTInjector.vcxproj", "{7EB73291-3C0D-4A66-B187-7FD147EA2360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B4C032-5831-46E6-B004-25982F7A7A11}.Debug|x86.ActiveCfg = Debug|Win32
+		{76B4C032-5831-46E6-B004-25982F7A7A11}.Debug|x86.Build.0 = Debug|Win32
+		{76B4C032-5831-46E6-B004-25982F7A7A11}.Debug|x86.Deploy.0 = Debug|Win32
+		{76B4C032-5831-46E6-B004-25982F7A7A11}.Release|x86.ActiveCfg = Release|Win32
+		{76B4C032-5831-46E6-B004-25982F7A7A11}.Release|x86.Build.0 = Release|Win32
+		{7EB73291-3C0D-4A66-B187-7FD147EA2360}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EB73291-3C0D-4A66-B187-7FD147EA2360}.Debug|x86.Build.0 = Debug|Win32
+		{7EB73291-3C0D-4A66-B187-7FD147EA2360}.Release|x86.ActiveCfg = Release|Win32
+		{7EB73291-3C0D-4A66-B187-7FD147EA2360}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
